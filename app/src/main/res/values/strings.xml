@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CareerAI</string>
+
+    <string-array name="career_roles">
+        <item>Java Developer</item>
+        <item>Python Developer</item>
+        <item>Data Analyst</item>
+    </string-array>
+</resources>
